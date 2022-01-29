@@ -1,3 +1,4 @@
 .*onnx filter=lfs diff=lfs merge=lfs -text
+.onnx filter=lfs diff=lfs merge=lfs -text
 glintr100.onnx filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
